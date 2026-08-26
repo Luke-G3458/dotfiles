@@ -1,0 +1,10 @@
+# Basic appearance and macOS terminal behavior.
+theme = light:Everforest Light Med,dark:Everforest Dark Hard
+font-size = 14
+window-padding-x = 8
+window-padding-y = 6
+window-padding-balance = true
+
+# Let terminal applications use Option as Alt and enable zsh integration.
+macos-option-as-alt = true
+shell-integration = zsh
