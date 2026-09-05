@@ -4,6 +4,7 @@ vim.g.maplocalleader = "\\"
 vim.opt.number = true
 vim.opt.hidden = true
 vim.opt.mouse = "a"
+vim.opt.clipboard = "unnamedplus"
 vim.opt.signcolumn = "yes"
 vim.opt.completeopt = { "menuone", "noselect", "popup" }
 vim.opt.termguicolors = true
